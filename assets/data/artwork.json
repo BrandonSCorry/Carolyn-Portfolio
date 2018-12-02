@@ -1,0 +1,31 @@
+//Carolyn artwork json file
+// sort by sections
+//ask Carolyn about missing sections, duplicate sections, names for titles or no?
+//artwork PDF local link:  file:///C:/Users/Brandon-Laptop/apps/Carolyn-Portfolio/carolyn%20artwork.pdf
+{
+  "artwork": [
+    {
+      "section-1": [
+        {
+          "section": "I",
+          "section-title": "Portraits",
+          "title": "",
+          "date": "2009",
+          "medium": "oil on canvas",
+          "description": "self-portrait",
+          "img": "src.."
+
+        },
+        {
+          "section": "I",
+          "section-title": "Portraits",
+          "title": "art title",
+          "date": "2010",
+          "medium": "oil on canvas",
+          "description": "self-portrait",
+          "img": "src.."
+        }
+      ]
+    }
+  ]
+}
