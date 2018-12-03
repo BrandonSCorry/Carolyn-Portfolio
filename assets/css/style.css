@@ -265,6 +265,7 @@ figcaption p {
 }
 .dropdown-menu {
   padding: 0!important;
+  margin: 0!important;
 }
 .hr {
   content: '';
