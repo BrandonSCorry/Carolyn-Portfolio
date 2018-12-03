@@ -15,9 +15,9 @@ body {
   font-size: medium;
 }
 
-.dropdown:hover .dropdown-menu {
-  display: block;
-}
+/*.dropdown:hover .dropdown-menu {*/
+  /*display: block;*/
+/*}*/
 
 .dropdown-item {
   text-align: center;
