@@ -1,26 +1,23 @@
 {
   "artwork": [
-    {
-      "section-10": [
+
         {
           "section": "X",
-          "section-title": "Untitled",
+          "sectionname": "Untitled",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/10/10-1.jpg"
+          "img": "./assets/artwork/10/10-1.jpg"
         },
         {
           "section": "X",
-          "section-title": "Untitled",
+          "sectionname": "Untitled",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/10/10-2.jpg"
+          "img": "./assets/artwork/10/10-2.jpg"
         }
       ]
-    }
-  ]
 }

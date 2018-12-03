@@ -1,71 +1,67 @@
 {
   "artwork": [
-    {
-      "section-11": [
         {
           "section": "XI",
-          "section-title": "After Van Gogh",
+          "sectionname": "After Van Gogh",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/11/11-1.jpg"
+          "img": "./assets/artwork/11/11-1.jpg"
         },
         {
           "section": "XI",
-          "section-title": "After Van Gogh",
+          "sectionname": "After Van Gogh",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/11/11-2.jpg"
+          "img": "./assets/artwork/11/11-2.jpg"
         },
         {
           "section": "XI",
-          "section-title": "After Van Gogh",
+          "sectionname": "After Van Gogh",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/11/11-3.jpg"
+          "img": "./assets/artwork/11/11-3.jpg"
         },
         {
           "section": "XI",
-          "section-title": "After Van Gogh",
+          "sectionname": "After Van Gogh",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/11/11-4.jpg"
+          "img": "./assets/artwork/11/11-4.jpg"
         },
         {
           "section": "XI",
-          "section-title": "After Van Gogh",
+          "sectionname": "After Van Gogh",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/11/11-5.jpg"
+          "img": "./assets/artwork/11/11-5.jpg"
         },
         {
           "section": "XI",
-          "section-title": "After Van Gogh",
+          "sectionname": "After Van Gogh",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/11/11-6.jpg"
+          "img": "./assets/artwork/11/11-6.jpg"
         },
         {
           "section": "XI",
-          "section-title": "After Van Gogh",
+          "sectionname": "After Van Gogh",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/11/11-7.jpg"
+          "img": "./assets/artwork/11/11-7.jpg"
         }
-      ]
-    }
   ]
 }

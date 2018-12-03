@@ -1,71 +1,67 @@
 {
   "artwork": [
-    {
-      "section-9": [
         {
           "section": "IX",
-          "section-title": "Untitled",
+          "sectionname": "Untitled",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/9/9-1.jpg"
+          "img": "./assets/artwork/9/9-1.jpg"
         },
         {
           "section": "IX",
-          "section-title": "Untitled",
+          "sectionname": "Untitled",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/9/9-2.jpg"
+          "img": "./assets/artwork/9/9-2.jpg"
         },
         {
           "section": "IX",
-          "section-title": "Untitled",
+          "sectionname": "Untitled",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/9/9-3.jpg"
+          "img": "./assets/artwork/9/9-3.jpg"
         },
         {
           "section": "IX",
-          "section-title": "Untitled",
+          "sectionname": "Untitled",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/9/9-3-2.jpg"
+          "img": "./assets/artwork/9/9-3-2.jpg"
         },
         {
           "section": "IX",
-          "section-title": "Untitled",
+          "sectionname": "Untitled",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/9/9-3-3.jpg"
+          "img": "./assets/artwork/9/9-3-3.jpg"
         },
         {
           "section": "IX",
-          "section-title": "Untitled",
+          "sectionname": "Untitled",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/9/9-3-4.jpg"
+          "img": "./assets/artwork/9/9-3-4.jpg"
         },
         {
           "section": "IX",
-          "section-title": "Untitled",
+          "sectionname": "Untitled",
           "title": "",
           "date": "",
           "medium": "",
           "description": "",
-          "img": "../artwork/9/9-4.jpg"
+          "img": "./assets/artwork/9/9-4.jpg"
         }
-      ]
-    }
   ]
 }
