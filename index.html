@@ -11,7 +11,7 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
 
-  <link rel="stylesheet" type="text/css" href="./assets/css/style.css" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
 
 
 
@@ -48,56 +48,7 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-<script crossorigin="anonymous">
-  $("#nav").load("components/nav.html");
-  $("#footer").load("components/footer.html");
-</script>
-<script crossorigin="anonymous">$("#content").load("components/about.html");</script>
-<script crossorigin="anonymous">
-  $( document ).ready(function() {
-    $(function () {
-
-      $(".navAbout").on("click", function () {
-        $("#sectionName").html('');
-
-        $("#content").load("components/about.html");
-      });
-      $(".navContact").on("click", function () {
-        $("#sectionName").html('');
-
-        $("#content").load("components/contact.html");
-      });
-      $(".workSections").on("click", "a", function () {
-
-        var module = this.id;
-        console.log(module);
-        var getthatmodule = ("./assets/data/" + module + ".json");
-        $("#content").empty;
-
-        $.getJSON(getthatmodule, function (json) {
-          moduleJson = json.artwork;
-          console.log(moduleJson);
-          $("#sectionName").show;
-          $("#sectionName").html(moduleJson[0].section + " - " + moduleJson[0].sectionname);
-          $("#sectionName").append("<div class='hr'></div>");
-
-          // $('div#content').html("<b>Section</b>: " + moduleJson[0].section);
-          $("#content").html(moduleJson.map(function (artwork) {
-            return ("<div class='grid-item'><a href=" + artwork.img + ' ' + "target='_blank'><div class='artGen' data-topic=''><img src='" + artwork.img + "'></div>" + "</a></div>");
-          }).join(" "));
-
-
-
-          //foreachLoop here
-
-
-        });
-
-        // $("#content").html("module" + module);
-        // $('#content').load("/sections/" + module + ".html");
-      });
-    });
-  });
+<script src="scripts/main.js" crossorigin="anonymous">
 </script>
 
 </body>
