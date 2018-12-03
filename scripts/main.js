@@ -1,8 +1,10 @@
+$( document ).ready(function() {
+
 $("#nav").load("components/nav.html");
 $("#footer").load("components/footer.html");
 $("#content").load("components/about.html");
 
-$( document ).ready(function() {
+
   $(function () {
 
     $(".navAbout").on("click", function () {
