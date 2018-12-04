@@ -2,4 +2,5 @@
 
 Purpose: Make a simple website to display Carolyn's artwork
 
-Deployed: [fireunbound.com](https://www.fireunbound.com)
+Development in progress.
+Deployed(0.1a): [fireunbound.com](https://www.fireunbound.com)
