@@ -7,7 +7,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/3/3-1.jpg"
+          "img": "./assets/artwork/3/sm/3-1-2.jpg"
         },
         {
           "section": "III",
@@ -16,7 +16,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/3/3-1-2.jpg"
+          "img": "./assets/artwork/3/sm/3-2-2.jpg"
         },
         {
           "section": "III",
@@ -25,7 +25,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/3/3-2.jpg"
+          "img": "./assets/artwork/3/sm/3-3.jpg"
         },
         {
           "section": "III",
@@ -34,7 +34,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/3/3-2-2.jpg"
+          "img": "./assets/artwork/3/sm/3-4.jpg"
         },
         {
           "section": "III",
@@ -43,7 +43,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/3/3-3.jpg"
+          "img": "./assets/artwork/3/sm/3-5.jpg"
         },
         {
           "section": "III",
@@ -52,7 +52,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/3/3-4.jpg"
+          "img": "./assets/artwork/3/sm/3-6.jpg"
         },
         {
           "section": "III",
@@ -61,7 +61,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/3/3-5.jpg"
+          "img": "./assets/artwork/3/sm/3-7.jpg"
         },
         {
           "section": "III",
@@ -70,7 +70,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/3/3-6.jpg"
+          "img": "./assets/artwork/3/sm/3-8.jpg"
         },
         {
           "section": "III",
@@ -79,7 +79,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/3/3-7.jpg"
+          "img": "./assets/artwork/3/sm/3-9.jpg"
         },
         {
           "section": "III",
@@ -88,79 +88,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/3/3-8.jpg"
+          "img": "./assets/artwork/3/sm/3-10.jpg"
         },
-        {
-          "section": "III",
-          "sectionname": "Scott Run",
-          "title": "",
-          "date": "",
-          "medium": "",
-          "description": "",
-          "img": "./assets/artwork/3/3-9.jpg"
-        },
-        {
-          "section": "III",
-          "sectionname": "Scott Run",
-          "title": "",
-          "date": "",
-          "medium": "",
-          "description": "",
-          "img": "./assets/artwork/3/3-10.jpg"
-        },
-        {
-          "section": "III",
-          "sectionname": "Scott Run",
-          "title": "",
-          "date": "",
-          "medium": "",
-          "description": "",
-          "img": "./assets/artwork/3/3-11.jpg"
-        },
-        {
-          "section": "III",
-          "sectionname": "Scott Run",
-          "title": "",
-          "date": "",
-          "medium": "",
-          "description": "",
-          "img": "./assets/artwork/3/3-12.jpg"
-        },
-        {
-          "section": "III",
-          "sectionname": "Scott Run",
-          "title": "",
-          "date": "",
-          "medium": "",
-          "description": "",
-          "img": "./assets/artwork/3/3-13.jpg"
-        },
-        {
-          "section": "III",
-          "sectionname": "Scott Run",
-          "title": "",
-          "date": "",
-          "medium": "",
-          "description": "",
-          "img": "./assets/artwork/3/3-14.jpg"
-        },
-        {
-          "section": "III",
-          "sectionname": "Scott Run",
-          "title": "",
-          "date": "",
-          "medium": "",
-          "description": "",
-          "img": "./assets/artwork/3/3-15.jpg"
-        },
-        {
-          "section": "III",
-          "sectionname": "Scott Run",
-          "title": "",
-          "date": "",
-          "medium": "",
-          "description": "",
-          "img": "./assets/artwork/3/3-15-2.jpg"
-        }
   ]
 }

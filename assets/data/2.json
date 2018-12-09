@@ -7,7 +7,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/2/2-1.jpg"
+          "img": "./assets/artwork/2/2-sm/1.jpg"
         },
         {
           "section": "II",
@@ -16,7 +16,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/2/2-2.jpg"
+          "img": "./assets/artwork/2/sm/2-2.jpg"
         },
         {
           "section": "II",
@@ -25,7 +25,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/2/2-3.jpg"
+          "img": "./assets/artwork/2/sm/2-3.jpg"
         },
         {
           "section": "II",
@@ -34,7 +34,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/2/2-4.jpg"
+          "img": "./assets/artwork/2/sm/2-4.jpg"
         },
         {
           "section": "II",
@@ -43,7 +43,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/2/2-5.jpg"
+          "img": "./assets/artwork/2/sm/2-5.jpg"
         },
         {
           "section": "II",
@@ -52,7 +52,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/2/2-6.jpg"
+          "img": "./assets/artwork/2/sm/2-6.jpg"
         }
   ]
 }

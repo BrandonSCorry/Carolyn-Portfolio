@@ -7,7 +7,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/5/5-1.jpg"
+          "img": "./assets/artwork/5/sm/5-1.jpg"
         },
         {
           "section": "V",
@@ -16,7 +16,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/5/5-2.jpg"
+          "img": "./assets/artwork/5/sm/5-2.jpg"
         },
         {
           "section": "V",
@@ -25,7 +25,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/5/5-3.jpg"
+          "img": "./assets/artwork/5/sm/5-3.jpg"
         },
         {
           "section": "V",
@@ -34,7 +34,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/5/5-4.jpg"
+          "img": "./assets/artwork/5/sm/5-4.jpg"
         },
         {
           "section": "V",
@@ -43,7 +43,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/5/5-5.jpg"
+          "img": "./assets/artwork/5/sm/5-5.jpg"
         },
         {
           "section": "V",
@@ -52,7 +52,7 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/5/5-6.jpg"
+          "img": "./assets/artwork/5/sm/5-6.jpg"
         },
         {
           "section": "V",
@@ -61,7 +61,25 @@
           "date": "",
           "medium": "",
           "description": "",
-          "img": "./assets/artwork/5/5-7.jpg"
-        }
+          "img": "./assets/artwork/5/sm/5-7.jpg"
+        },
+    {
+      "section": "V",
+      "sectionname": "Layers",
+      "title": "",
+      "date": "",
+      "medium": "",
+      "description": "",
+      "img": "./assets/artwork/5/sm/5-8.jpg"
+    },
+    {
+      "section": "V",
+      "sectionname": "Layers",
+      "title": "",
+      "date": "",
+      "medium": "",
+      "description": "",
+      "img": "./assets/artwork/5/sm/5-9.jpg"
+    }
   ]
 }
