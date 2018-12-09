@@ -57,7 +57,7 @@ button:focus, button:active {
 }
 
 .artGen img {
-  max-width: 310px;
+  max-width: 220px;
   float: left;
   margin:5px;
 }
