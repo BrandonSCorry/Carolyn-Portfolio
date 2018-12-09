@@ -2,4 +2,6 @@
 
 Purpose: Make a simple website to display Carolyn's artwork
 
-Currently: choosing design elements for the website and implementing them using CSS.
+Development in progress.
+
+Deployed(0.1a): [fireunbound.com](https://www.fireunbound.com)
