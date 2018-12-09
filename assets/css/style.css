@@ -25,7 +25,10 @@ body {
 
 a {
   text-decoration: none;
-  color: dodgerblue;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  background-color: #999!important;
 }
 
 .container {
@@ -35,7 +38,6 @@ a {
 }
 
 #content {
-  opacity: 0.8;
 }
 
 #grid {
@@ -58,8 +60,6 @@ button:focus, button:active {
   max-width: 310px;
   float: left;
   margin:5px;
-  border-bottom: 1px solid;
-
 }
 
 .artGen img:hover {
@@ -99,8 +99,12 @@ header a.navbar-brand {
 }
 
 /* Nav */
-nav {
+.navbar a {
+  color: black;
+}
 
+.navbar a:hover {
+  color: #555;
 }
 .navbar {
   padding: 0;
@@ -179,7 +183,6 @@ h1, h2, h3, h4, h5, h6 {
 img.img-profile {
   padding-bottom: 1em;
   padding-right: 1.5em;
-  border-radius: 90px;
   height: 200px;
 }
 

@@ -1,7 +1,7 @@
 {
   "artwork": [
         {
-          "section": "VII",
+          "section": "VIII",
           "sectionname": "Planets",
           "title": "",
           "date": "",
@@ -26,6 +26,42 @@
           "medium": "",
           "description": "",
           "img": "./assets/artwork/8/8-3.jpg"
-        }
+        },
+    {
+      "section": "VII",
+      "sectionname": "Planets",
+      "title": "",
+      "date": "",
+      "medium": "",
+      "description": "",
+      "img": "./assets/artwork/9/9-1.jpg"
+    },
+    {
+      "section": "VII",
+      "sectionname": "Planets",
+      "title": "",
+      "date": "",
+      "medium": "",
+      "description": "",
+      "img": "./assets/artwork/9/9-2.jpg"
+    },
+    {
+      "section": "VII",
+      "sectionname": "Planets",
+      "title": "",
+      "date": "",
+      "medium": "",
+      "description": "",
+      "img": "./assets/artwork/9/9-3.jpg"
+    },
+    {
+      "section": "VII",
+      "sectionname": "Planets",
+      "title": "",
+      "date": "",
+      "medium": "",
+      "description": "",
+      "img": "./assets/artwork/9/9-4.jpg"
+    }
   ]
 }
